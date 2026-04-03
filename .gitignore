@@ -1,0 +1,22 @@
+# Environments
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Build artifacts
+lambda_package.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
