@@ -344,5 +344,3 @@ The notebook uses the following key Python packages:
 | `matplotlib` | SHAP plot rendering |
 
 ---
-
-> **Note:** AWS credentials are never stored in this repository. All sensitive values (`TOPIC_ARN`, `AWS_REGION`, IAM roles) are injected via environment variables or AWS credential files.
